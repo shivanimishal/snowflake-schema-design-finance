@@ -1,0 +1,1 @@
+# snowflake-schema-design-finance
